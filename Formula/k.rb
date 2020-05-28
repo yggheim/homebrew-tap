@@ -1,7 +1,7 @@
 class K < Formula
   desc "Exec into kubernetes pod easy (via kubectl)"
   homepage "https://github.com/yggheim/k"
-  version "0.1.0"
+  version "0.1.1"
 
   bottle :unneeded
 
